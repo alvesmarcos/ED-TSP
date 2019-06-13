@@ -1,0 +1,9 @@
+Instancia,Otimo,Media Custo,Melhor Solucao,Media Tempo,GAP,Heuristica
+bayg29,1610,2074.5,1952,0.00018,21.24,Nearest Neighbor
+bays29,2020,2360.7,2134,0.00016,5.643564356,Nearest Neighbor
+berlin52,7542,9371,9073,0.00047,20.299,Nearest Neighbor
+bier127,118282,147665.4,137572,0.00239,16.3,Nearest Neighbor
+brazil58,25395,30608.8,27384,0.00058,7.8322,Nearest Neighbor
+ch130,6110,7614.6,7228,0.00197,18.297,Nearest Neighbor
+ch150,6528,7560.8,7537,36.446,15.45,Nearest Neighbor
+swiss42,1273,1605,1469,0.00029,15.39,Nearest Neighbor
